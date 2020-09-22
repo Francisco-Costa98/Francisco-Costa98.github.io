@@ -1,0 +1,23 @@
+.menu_container{
+    width:30%;
+    margin: auto;
+}
+
+.menu_container .menu{
+    flex: auto;
+    justify-content: center;
+    text-align: center;
+    border: 3px solid black;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.menu_container .menu .menu_title {
+    color:black;
+    width: 100%;
+    
+}
+
+.menu_container .menu .menu_body {
+    color: dimgrey;
+}
